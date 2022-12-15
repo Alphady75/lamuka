@@ -1,0 +1,31 @@
+div{
+   height: 100vh;
+}
+.banniere{
+   background-color: rgba(255, 12, 4, 0.1);
+}
+.image{
+   background: yellow url('../img/1.jpg') no-repeat scroll center;
+   background-size: cover;
+  background-clip: no;
+
+}
+.bloc{
+   border: 1px blue solid;
+   border-radius: 10px 40px 30px 50px;
+}
+input{
+   min-height: 40px;
+   border-radius: 50px;
+}
+.marge{
+   padding: 100px;
+   border: 1px green solid;
+}
+
+.dimenssion{
+   width: 50%;
+   height: 300px;
+   border: 1px solid green;
+   overflow: scroll;
+}
